@@ -2,6 +2,8 @@
 
 I am a passionate AI Engineer & Data Scientist, driven by a curiosity for technology development. My work experiences include work for different companies (big tech & startup) in different industries: clean energy, internet technology, web3 security. 
 
+![rachelccq0522's Stats](https://github-readme-stats.vercel.app/api?username=rachelccq0522&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 🚀 About Me
 
 - I'm currently an AI Engineer @WindQuiet, a renewable energy startup in Saratoga, CA.
